@@ -15,6 +15,6 @@ This Streamlit app helps you find the largest number among three you provide.
 **Running the App:**
 
 1. Install Streamlit: `pip install streamlit`
-2. Run your script: `streamlit run app.py` (replace `app.py` with your actual file name)
+2. Run your script: `streamlit run app.py` 
 3. Open the provided link in your browser.
 
